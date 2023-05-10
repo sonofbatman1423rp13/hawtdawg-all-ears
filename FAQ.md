@@ -5,3 +5,9 @@
 You can upload upto 15 photos.
 Upload atleast one.
 Showcase your best-self
+
+## Where do I list my favourite treats?
+
+Open the app and click on "Edit Profile".
+Scroll down to the section called "Passions" and tell friends all about the treats and toys that make your tail wag.
+When you're done, click "Save Changes" to show the world
